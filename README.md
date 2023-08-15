@@ -1,5 +1,5 @@
-# conversor_decimal
-Conversor manual de decimal para outras bases.
-# Método de conversão:
-Foi implementado o método de realizar divisões sucessivas do número a ser convertido em decimal, pela base.
-Logo em seguida, concatenamos o resto da divisão de cada operação de trás pra frente para formar o dígito.
+## Conversor Decimal e de Outras Bases
+Este é um conversor prático que permite a conversão manual de números decimais para diferentes bases numéricas.
+
+## Método de Conversão:
+Nossa abordagem de conversão se baseia em um processo de divisões sucessivas do número decimal que se deseja converter, utilizando a base desejada. O próximo passo envolve a concatenação inversa dos restos resultantes de cada etapa de divisão, formando assim o dígito correspondente na nova base.
